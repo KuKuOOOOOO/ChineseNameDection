@@ -21,11 +21,11 @@ $ https://github.com/KuKuOOOOOO/ChineseNameDection/blob/main/ChineseDection2.ipy
 ## 執行畫面
 
 ![image](https://github.com/KuKuOOOOOO/ChineseNameDection/blob/main/Demo1.JPG)  
- Epoch: 20  
- Loss: 0.0033  
- Accuracy: 0.9993  
- Value loss: 0.0793  
- Value accuracy: 0.8973  
+ Epoch : 20  
+ Loss : 0.0033  
+ Accuracy : 0.9993  
+ Value loss : 0.0793  
+ Value accuracy : 0.8973  
 
 ## 輸出結果
 
